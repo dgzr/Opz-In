@@ -1,2 +1,12 @@
-# Opz-In
-Versi oploverz.in , hanya untuk melihat url server Download bukan untuk m̶e̶n̶d̶o̶w̶n̶l̶o̶a̶d̶
+#### Install
+```
+git clone https://www.github.com/Aditia-Dtz/Opz-In
+cd Opz-In && npm i && node Opz-In
+```
+
+```
+Jika error' mungkin style web nya sudah di rubah
+```
+------------------
+###### https://t.me/aditia_dtz
+------------------
